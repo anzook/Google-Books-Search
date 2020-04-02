@@ -76,7 +76,7 @@ Having an active and healthy commit history on GitHub is important for your futu
 * Feel free to try out alternative CSS framework to Bootstrap.
 
 6. Add the following Express routes for your app:
-
+docs: https://developers.google.com/books/docs/v1/reference/volumes/list
 * `/api/books` (get) - Should return all saved books as JSON.
 
 * `/api/books` (post) - Will be used to save a new book to the database.
