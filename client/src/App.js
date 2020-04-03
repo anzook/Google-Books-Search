@@ -34,6 +34,9 @@ export default function App() {
             <Search />
           </Route>
           <Route path="/saved">
+          <Saved />
+          </Route>
+          <Route path="/">
             <Saved />
           </Route>
         </Switch>
