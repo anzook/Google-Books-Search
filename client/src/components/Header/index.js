@@ -7,7 +7,7 @@ function Header() {
 <Jumbotron>
   <h1>Hello, readers of the world!</h1>
   <p>
-    This is a simple app using Google Books api to dsicover and save books.
+    This is a simple app using Google Books api to discover and save books.
   </p>
 </Jumbotron>
   );
